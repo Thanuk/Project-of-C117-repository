@@ -1,0 +1,16 @@
+body{
+    background: yellowgreen;
+}
+
+p{
+    font-size: 20px;
+}
+
+h1{
+    background-color: wheat;
+    color: blue;
+}
+
+#Things_to_Draw{
+    color: red;
+}
